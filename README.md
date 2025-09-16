@@ -1,2 +1,2 @@
 # sudheergit2
-creating a git project
+creating a new git project
